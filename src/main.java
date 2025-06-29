@@ -14,7 +14,6 @@ public class main {
         System.out.println("Hallo " + name + " wie geht es dir?");
         System.out.println("Willkommen im Java Bootcamp.");
     }
-
     public static boolean isEven(int number) {
         return number % 2 == 0;
     }
